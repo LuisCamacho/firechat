@@ -12,6 +12,9 @@ module.exports = function(grunt) {
         regexdash: false
       }
     },
+    
+    
+    
 
     // Precompile templates and strip whitespace with 'processContent'.
     jst: {
